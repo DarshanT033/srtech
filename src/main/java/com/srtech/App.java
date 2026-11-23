@@ -7,7 +7,7 @@ public class App
 		int j;
 		int k;
 
-		for(j=0;j<90;j++)
+		for(j=0;j<80;j++)
 		{
 			j += 5;
 			j += 5;
